@@ -1,14 +1,14 @@
 {
-    "name": "naugrim/bmecat",
+    "name": "loeffelhardt/el-bmecat",
     "type": "library",
     "description": "Allows to build BMEcat documents from PHP and converts them to xml",
     "keywords": ["bmecat", "document", "serialization", "xml"],
-    "homepage": "https://github.com/naugrimm/bmecat",
+    "homepage": "https://github.com/loeffelhardt/el-bmecat",
     "license": "MIT",
     "authors": [
         {
-            "name": "Erik Anders",
-            "email": "erik.gto@googlemail.com"
+            "name": "Giovanni Piemontese",
+            "email": "giovanni.piemontese@loeffelhardt.de"
         }
     ],
     "require": {

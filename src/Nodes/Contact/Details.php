@@ -4,7 +4,6 @@ namespace Naugrim\BMEcat\Nodes\Contact;
 
 use /** @noinspection PhpUnusedAliasInspection */
     JMS\Serializer\Annotation as Serializer;
-use Naugrim\BMEcat\Builder\NodeBuilder;
 use Naugrim\BMEcat\Nodes\Contracts\NodeInterface;
 use Naugrim\BMEcat\Nodes\Emails;
 use Naugrim\BMEcat\Nodes\Fax;
